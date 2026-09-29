@@ -40,4 +40,16 @@ WST3/TaskManager
     └── web.php
 ```
 
+<h1>Output of the website</h1>
 
+MainDashboard
+![Dashboard](docs/Dash.png)
+
+Create Task
+![Create Task](docs/CreateTask.png)
+
+Edit Task
+![Edit Task](docs/EditTask.png)
+
+View Task
+![View Task](docs/ViewTask.png)
