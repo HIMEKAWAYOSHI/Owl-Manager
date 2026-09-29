@@ -45,6 +45,7 @@
         }
 
         .field { margin-bottom: 18px; }
+        
         label {
             display: block;
             margin-bottom: 6px;
