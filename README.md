@@ -1,14 +1,18 @@
 <h1><center>Owl TaskManager</center></h1>
 
-Project Code: WST21-PM-2026-SF
+<h2>Project Code</h2> 
+WST21-PM-2026-SF
 
-Student Name: Buhangin, Rhaneil S.
+<h2>Student Name</h2> 
+Buhangin, Rhaneil S.
 
-Course & Year: BSIT 2nd Year
+<h2>Course & Year</h2> 
+BSIT 2nd Year
 
-Database Used: MySQL
+<h2>Database Used</h2>
+MySQL
 
-<h1>Features:</h1>
+<h2>Features:</h2>
  
  - Add Task
  - View Tasks
@@ -40,16 +44,20 @@ WST3/TaskManager
     └── web.php
 ```
 
-<h1>Output of the website</h1>
+<h2>Output of the website</h2>
 
-MainDashboard
+<h3>MainDashboard</h3>
+
 ![Dashboard](docs/Dash.png)
 
-Create Task
+<h3>Create Task</h3>
+
 ![Create Task](docs/CreateTask.png)
 
-Edit Task
+<h3>Edit Task</h3>
+
 ![Edit Task](docs/EditTask.png)
 
-View Task
+<h3>View Task</h3>
+
 ![View Task](docs/ViewTask.png)
